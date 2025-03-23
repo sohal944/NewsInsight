@@ -1,0 +1,13 @@
+gradio
+requests
+beautifulsoup4
+nltk
+spacy
+rake_nltk
+gtts
+deep-translator
+spacy
+textblob
+
+
+
